@@ -28,12 +28,12 @@ main h2 {
   font-weight: 500;
   font-size: 35px;
   line-height: 44px;
-  color: #EDECFF;
+  color: #edecff;
   margin-bottom: 3rem;
 }
 main p,
 .contact-p {
-  color: #C8C8D4;
+  color: #c8c8d4;
   text-align: center;
   font-weight: 400;
   font-size: 20px;
@@ -43,5 +43,9 @@ main p,
   margin: 1rem;
 }
 .d-flex {
-  color: #EDECFF;
+  color: #edecff;
+}
+
+.form-label {
+  display: none;
 }
