@@ -1,0 +1,24 @@
+body {
+  background-color: #191765;
+  background-image: url(img/0.png);
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  min-height: 8rem;
+}
+
+main h1 {
+  text-align: center;
+  color: #7d73fc;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 72px;
+}
