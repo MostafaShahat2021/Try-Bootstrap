@@ -22,3 +22,26 @@ main h1 {
   font-size: 42px;
   line-height: 72px;
 }
+
+main h2 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 44px;
+  color: #EDECFF;
+  margin-bottom: 3rem;
+}
+main p,
+.contact-p {
+  color: #C8C8D4;
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 40px;
+  padding: 1rem;
+  border-radius: 5px;
+  margin: 1rem;
+}
+.d-flex {
+  color: #EDECFF;
+}
